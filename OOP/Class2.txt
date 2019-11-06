@@ -1,0 +1,14 @@
+Class: Computer
+
+Attributes:
+brand (string)
+color (array)
+processor (array)
+storageDriveCapacity (array)
+laptop (boolean)
+
+Methods:
+showBrand (uses brand attribute to print message to user informing them of brand)
+checkLaptop (Uses laptop attribute to print message to user informing them of whether or not it is a laptop)
+modifyProcessor (modifies processor attribute to a new processor)
+changeColor (modifies color attribute to a new string in array, prompts user to choose)
