@@ -1,0 +1,14 @@
+Object: MacBook Pro
+
+Attributes
+brand: "Apple"
+color: "Space Grey"
+processor: [1.4]
+storageDriveCapacity: [128]
+laptop (boolean): true
+
+Methods:
+showBrand: "Apple"
+checkLaptop: true
+modifyProcessor: processor = [1.6]
+changeColor: color = [Silver]
