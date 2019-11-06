@@ -5,10 +5,10 @@ color (string)
 motor (array)
 maxHP (integer)
 vintage (boolean)
-age (integer)
+year (integer)
 
 Methods:
 changeColor (modifies color attribute to new string)
 addIntakeOne (Increases maxHP by 5)
 swapMotor (modifies motor to new string in array)
-checkVintage (Uses age attribute to modify vintage attribute)
+checkVintageStatus (Uses age attribute to modify vintage attribute)

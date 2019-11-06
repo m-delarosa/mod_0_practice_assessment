@@ -1,0 +1,14 @@
+Object: Mustang
+
+Attributes:
+color: "Black"
+motor: [V8]
+maxHP: 220
+vintage: true
+year: 1969
+
+Methods:
+changeColor: change color attribute from "Black" to "Red")
+addIntakeOne: 220+5 = 225 HP
+swampMotor: changes motor attribute to [I6]
+checkVintageStatus: true
